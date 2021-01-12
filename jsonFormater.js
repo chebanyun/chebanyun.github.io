@@ -4,8 +4,8 @@ function JsonFormater(opt) {
         tabSize: 2,
         singleTab: " ",
         quoteKeys: true,
-        imgCollapsed: "./Collapsed.gif",
-        imgExpanded: "./Expanded.gif",
+        imgCollapsed: "https://atvfun.cn/Collapsed.gif",
+        imgExpanded: "https://atvfun.cn/Expanded.gif",
         isCollapsible: true
     }, opt || {});
     this.isFormated = false;
