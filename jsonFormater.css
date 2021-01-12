@@ -1,9 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
+body{
+    font-size: 14px;
+}
 .jf-ObjectBrace {
     color: #00AA00;
     font-weight: bold;
-    font-size: 14px;
 }
 .jf-ArrayBrace {
     color: #0033FF;
